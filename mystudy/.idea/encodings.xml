@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/day03/MyExceptionTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/day04/Game.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/day04/GameStart.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/day04/Map.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/day04/PlayEnum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/day04/Player.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/test/ClassTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/test/TestEnum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/offcn/test/homework.java" charset="GBK" />
+  </component>
+</project>
