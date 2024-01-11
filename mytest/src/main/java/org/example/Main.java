@@ -4,6 +4,7 @@ import org.apache.commons.collections4.MapUtils;
 import org.junit.Test;
 
 import java.util.*;
+import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,7 +13,6 @@ public class Main {
         ListNode l1 = new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9))))))));
         ListNode l2 = new ListNode(9, new ListNode(9, new ListNode(9, new ListNode(9))));
         ListNode listNode = main.addTwoNumbers(l1, l2);
-
     }
 
     public ListNode loop(ListNode l) {

@@ -18,6 +18,6 @@ public class UserController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "你好";
+        return "你好吗？";
     }
 }
